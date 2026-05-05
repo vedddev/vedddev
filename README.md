@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant Shelake
 
-<!--
-**vedddev/vedddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Engineering Student | AI Enthusiast | ML | IoT Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 💻 Building AI-powered systems  
+- 🤖 Currently working on **Athena (AI Assistant)**  
+- 🌱 Exploring ML, Automation & Smart Homes  
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![C++](https://img.shields.io/badge/C++-000?logo=c%2B%2B)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch)
+
+---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-000?logo=instagram)](https://www.instagram.com/vedant_0928/)
