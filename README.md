@@ -56,7 +56,7 @@ Machine learning system using Random Forest (93.8% accuracy) deployed with Flask
 ---
 
 ## GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vedddev&show_icons=true&theme=radical&cache_seconds=1800)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=vedddev)
 
 ---
 
