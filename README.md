@@ -1,4 +1,4 @@
-# Hi, I'm Vedant Shelake 👋
+# Hi, I'm Ved
 
 Engineering Student | AI Engineer| Data scientist | ML | Researcher 
 
