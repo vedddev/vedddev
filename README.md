@@ -5,7 +5,7 @@ Engineering Student | AI Engineer| Data scientist | ML | Researcher
 ---
 
 ## About Me
-- Machine Learning and Data Science enthusias  
+- Machine Learning and Data Science engineer
 - Experience in building and deploying AI models  
 - Focused on real-world problem solving using data  
 - 📧 vedantshelake28@gmail.com  
