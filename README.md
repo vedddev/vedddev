@@ -9,14 +9,7 @@ Engineering Student | AI Engineer| Data scientist | ML | Researcher
 - Focused on real-world problem solving using data  
 - 📧 vedantshelake28@gmail.com  
 
----
 
-
-
-## GitHub Stats 📊
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=vedddev)
-
----
 
 
 ## Connect With Me
