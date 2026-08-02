@@ -9,9 +9,6 @@ Engineering Student | AI Engineer| Data scientist | ML | Researcher
 - Focused on real-world problem solving using data  
 - 📧 vedantshelake28@gmail.com  
 
-
-
-
 ## Connect With Me
 GitHub: https://github.com/vedddev  
 LinkedIn: [https://linkedin.com/in/vedddev](https://www.linkedin.com/in/veddev/)  
