@@ -1,6 +1,6 @@
 # Hi, I'm Ved
 
-Engineering Student | AI Engineer| Data scientist | ML | Researcher 
+AI Engineer| Data scientist | ML Engineer | Researcher 
 
 ---
 ## About Me
@@ -13,4 +13,4 @@ Engineering Student | AI Engineer| Data scientist | ML | Researcher
 GitHub: https://github.com/vedddev  
 LinkedIn: [https://linkedin.com/in/vedddev](https://www.linkedin.com/in/veddev/)  
 Kaggle:[https://kaggle.com/yourname  ](https://www.kaggle.com/vedant0928)
-
+Leetcode:[https://https://leetcode.com/u/vedddev/](https://leetcode.com/u/vedddev/)
