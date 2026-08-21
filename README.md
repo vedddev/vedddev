@@ -1,5 +1,4 @@
 # Hi, I'm Ved
-
 AI Engineer| Data scientist | ML Engineer | Researcher 
 
 ---
