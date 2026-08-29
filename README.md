@@ -6,8 +6,8 @@ AI/ML Engineer| Data scientist | ML Engineer
 - Machine Learning and Data Science engineer
 - Experience in building and deploying AI models  
 - Focused on real-world problem solving using data  
-- 📧 vedantshelake28@gmail.com  
-
+- 📧 vedantshelake28@gmail.com
+  
 ## Connect With Me
 GitHub: https://github.com/vedddev  
 LinkedIn:[https://linkedin.com/in/vedddev](https://www.linkedin.com/in/veddev/)  
