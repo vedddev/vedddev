@@ -1,14 +1,3 @@
 # Hi, I'm Ved
-AI/ML Engineer| Data scientist | ML Engineer 
----
-## About Me
-- Machine Learning and Data Science engineer
-- Experience in building and deploying AI models  
-- Focused on real-world problem solving using data  
-- 📧 vedantshelake28@gmail.com
-  
-## Connect With Me
-GitHub: https://github.com/vedddev  
-LinkedIn:[https://linkedin.com/in/vedddev](https://www.linkedin.com/in/veddev/)  
-Kaggle:[https://kaggle.com/yourname  ](https://www.kaggle.com/vedant0928)
-Leetcode: https://leetcode.com/u/vedddev/
+AI/ML Engineer| Data scientist | ML Engineer
+[🌐 Portfolio](https://vedant-portfolio-fzs6.vercel.app/)
